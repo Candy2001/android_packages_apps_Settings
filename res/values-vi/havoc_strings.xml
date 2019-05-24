@@ -439,4 +439,11 @@
     <string name="torch_power_button_gesture_none">Tắt</string>
     <string name="torch_power_button_gesture_dt">Nhấn đúp nút nguồn để bật đèn pin</string>
     <string name="torch_power_button_gesture_lp">Nhấn giữ nút nguồn để bật đèn pin</string>
+	
+	<!-- Battery Estimate -->
+    <string name="show_battery_estimate_title">Ước tính thời lượng Pin còn lại</string>
+    <string name="show_battery_estimate_summary">Hiện Ước tính Pin trong Bảng cài đặt nhanh</string>
+    <string name="battery_estimate_position_title">Vị trí ước tính pin</string>
+    <string name="battery_estimate_position_qsheader">Tiêu đề QS</string>
+    <string name="battery_estimate_position_qspanel">Bảng Cài đặt nhanh</string>
 </resources>
