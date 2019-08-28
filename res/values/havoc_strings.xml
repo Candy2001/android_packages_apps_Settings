@@ -439,7 +439,7 @@
     <!-- Havoc-OS info -->
     <string name="havoc_title">Havoc</string>
     <string name="havoc_info">Havoc version</string>
-    <string name="havoc_maintainer">Maintainer</string>
+    <string name="havoc_maintainer">Developer</string>
     <string name="havoc_date">Build date</string>
     <string name="havoc_type">Build type</string>
     <string name="havoc_device">Device</string>

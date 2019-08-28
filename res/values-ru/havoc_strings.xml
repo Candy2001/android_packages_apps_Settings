@@ -392,7 +392,7 @@
     <!-- Havoc-OS info -->
     <string name="havoc_title">Havoc</string>
     <string name="havoc_info">Версия Havoc</string>
-    <string name="havoc_maintainer">Сопровождающий</string>
+    <string name="havoc_maintainer">Developer</string>
     <string name="havoc_date">Дата сборки</string>
     <string name="havoc_type">Тип сборки</string>
     <string name="havoc_device">Устройство</string>
